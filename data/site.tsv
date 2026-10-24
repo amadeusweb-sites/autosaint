@@ -18,5 +18,5 @@ mediakit	?palette=default
 
 |technical
 sections	from-tsv
-local-url	http://localhost/biz/transportation/autosaint/
-live-url	https://autosaint.biz.amadeusweb.in/
+local-url	http://localhost/amadeusweb/businesses/autosaint/
+live-url	https://autosaint.amadeusweb.in/
